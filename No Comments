@@ -45,12 +45,8 @@ hdblog.it###banner1_720
 hdblog.it###comments
 www.hdblog.it##.pubtech-adv-container.container_T_2
 www.hdblog.it##.pubtech-adv-container.container_B_1
-hdblog.it###newslist > div.news-list.first-list:nth-child(3) > div.branded_content:nth-child(3)
-hdblog.it###newslist > div:nth-child(2)
-hdblog.it###newslist > div.news-list:nth-child(5) > div.branded_content.evergreen:nth-child(4)
-hdblog.it###newslist > div.related-news.outsidebox.embedded-list.buying-guides-wrapper:nth-child(6)
+hdblog.it###newslist > div.news-list.first-list:nth-child(2) > div.branded_content:nth-child(3)
 hdblog.it###newslist > div.news-list:nth-child(4) > div.branded_content.evergreen:nth-child(4)
-hdblog.it###newslist > div.related-news.outsidebox.embedded-list.buying-guides-wrapper:nth-child(5)
 
 m.calcionapoli24.it##.evo-custom0.gptslot
 
@@ -58,3 +54,5 @@ forum.mobilism.me###page-body > main > table.footable.table.table-white.table-pr
 forum.mobilism.org###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:first-child
 forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:first-child
 forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:nth-child(5)
+forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:first-child > td.expand.footable-last-column.footable-first-column:first-child
+forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:nth-child(5) > td.expand.footable-last-column.footable-first-column:first-child
