@@ -1,4 +1,4 @@
-! Version: 6.1
+! Version: 6.2
 ! Title: No Comments
 
 *##+js(nowebrtc)
@@ -62,3 +62,5 @@ forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.tab
 forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:nth-child(5)
 forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:first-child > td.expand.footable-last-column.footable-first-column:first-child
 forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:nth-child(5) > td.expand.footable-last-column.footable-first-column:first-child
+forum.mobilism.me###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:nth-child(5) > td.expand.footable-last-column.footable-first-column:first-child
+forum.mobilism.me###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:first-child > td.expand.footable-last-column.footable-first-column:first-child
