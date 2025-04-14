@@ -1,4 +1,4 @@
-! Version: 6.2
+! Version: 1.2
 ! Title: No Comments
 
 *##+js(nowebrtc)
@@ -56,11 +56,10 @@ m.calcionapoli24.it##.evo-custom0.gptslot
 tuttonapoli.net###content > div.center:nth-child(5)
 tuttonapoli.net###content > div.center:nth-child(6)
 
-forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:first-child > td.expand.footable-last-column.footable-first-column:first-child
-forum.mobilism.org###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:first-child
-forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:first-child
 forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:nth-child(5)
-forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:first-child > td.expand.footable-last-column.footable-first-column:first-child
-forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:nth-child(5) > td.expand.footable-last-column.footable-first-column:first-child
-forum.mobilism.me###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:nth-child(5) > td.expand.footable-last-column.footable-first-column:first-child
-forum.mobilism.me###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:first-child > td.expand.footable-last-column.footable-first-column:first-child
+forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(3) > tbody:last-child > tr.global-announce:first-child
+forum.mobilism.org###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(5) > tbody:last-child > tr.global-announce:first-child
+
+forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3)
+forum.mobilism.org###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5)
+forum.mobilism.org###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(4)
