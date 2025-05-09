@@ -1,4 +1,4 @@
-! Version: 1.3
+! Version: 1.4
 ! Title: Comment Zero
 
 *##+js(nowebrtc)
@@ -58,6 +58,10 @@ tuttonapoli.net###content > div.center:nth-child(6)
 
 forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(3)
 forum.mobilism.org###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(5)
+forum.mobilism.me###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(3)
+forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.default.footable-loaded:nth-child(5)
 
 forum.mobilism.org###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5)
 forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3)
+forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5)
+forum.mobilism.me###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3)
