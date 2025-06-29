@@ -1,4 +1,4 @@
-! Version: 1.5
+! Version: 1.5.1
 ! Title: Comment Zero
 
 *##+js(nowebrtc)
@@ -68,3 +68,8 @@ forum.mobilism.org###page-body > main > table.footable.table.table-white.table-p
 forum.mobilism.org###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3)
 forum.mobilism.me###page-body > main > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(5)
 forum.mobilism.me###content-forum > div.padding_0_40 > table.footable.table.table-white.table-primary.table-hover.announcement.phone.breakpoint.footable-loaded:nth-child(3)
+
+forum.mobilism.org###page-body > main > div.tabbable.tabbable-custom:nth-child(2) > div.widget-body:last-child > div.tab-content > div.row-fluid > div.span12:first-child > div.span9:last-child > div.tab-content > div.tab-pane.active > table.footable.table.table-striped.table-bordered.table-white.table-primary.table-hover.tablet.footable-loaded:nth-child(4)
+forum.mobilism.org###page-body > main > div.tabbable.tabbable-custom:nth-child(2) > div.widget-body:last-child > div.tab-content > div.row-fluid > div.span12:first-child > div.span9:last-child > div.tab-content > div.tab-pane.active > div.side-segment:nth-child(3) > h3
+forum.mobilism.org###page-body > main > div.tabbable.tabbable-custom:nth-child(2) > div.widget-body:last-child > div.tab-content > div.row-fluid > div.span12:first-child > div.span9:last-child > div.tab-content > div.tab-pane.active > div.alert.alert-info.fade.in:nth-child(2)
+
