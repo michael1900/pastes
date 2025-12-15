@@ -3,6 +3,25 @@
 
 *##+js(nowebrtc)
 
+youtube.com##container > .yt-playability-error-supported-rendereres.style-scope
+youtube.com##error-screen > .yt-playability-error-supported-renderers.stlye-scope
+youtube.com##error-screen
+youtube.com##.ytp-cultural-moment-player-content.ytp-player-content
+youtube.com##.ytp-cued-thumbnail-overlay-image
+youtube.com##.ytp-cued-thumbnail-overlay
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+youtube.com#@##player-ads
+www.youtube.com##+js(nano-stb
+www.youtube.com##+js(nano-stb 
+
+youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
 www.youtube.com##.opened
 
