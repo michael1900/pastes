@@ -34,8 +34,7 @@ youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 youtube.com#@##player-ads
-www.youtube.com##+js(nano-stb
-www.youtube.com##+js(nano-stb 
+
 
 youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
@@ -47,8 +46,6 @@ www.youtube.com##.opened
 
 youtube.com##.ytd-comments.style-scope
 youtube.com##ytm-comments-entry-point-header-renderer
-youtube.com###comments-button
-youtube.com###reply-button-end
 youtube.com##.icon-shorts_comment
 
 ||disqus.com/embed/comments/
