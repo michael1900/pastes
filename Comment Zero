@@ -1,4 +1,4 @@
-! Version: 2.0.8
+! Version: 2.0.9
 ! Title: Comment Zero
 
 *##+js(nowebrtc)
@@ -33,7 +33,6 @@ youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageV
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-youtube.com#@##player-ads
 
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
 www.youtube.com##.opened
