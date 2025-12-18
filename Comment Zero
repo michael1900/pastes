@@ -1,8 +1,11 @@
-! Version: 2.0.9
+! Version: 2.1.0
 ! Title: Comment Zero
 
 *##+js(nowebrtc)
 
+youtube.com###comments
+youtube.com###comments-button
+youtube.com###reply-button-end
 youtube.com##ytd-comments
 youtube.com##ytd-comment-thread-renderer
 youtube.com##ytd-comment-replies-renderer
