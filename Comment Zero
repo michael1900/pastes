@@ -21,10 +21,10 @@ youtube.com##*{
   transition: none !important;
 }
 
+youtube.com##ytd-app *:style(animation: none !important; transition: none !important;)
+
 youtube.com##link[rel="prefetch"]
 youtube.com##link[rel="preload"]
-
-youtube.com##ytd-app *:style(animation: none !important; transition: none !important;)
 
 youtube.com##container > .yt-playability-error-supported-rendereres.style-scope
 youtube.com##error-screen > .yt-playability-error-supported-renderers.stlye-scope
