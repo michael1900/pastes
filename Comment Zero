@@ -1,7 +1,27 @@
-! Version: 1.5.5
+! Version: 2.0.1
 ! Title: Comment Zero
 
 *##+js(nowebrtc)
+
+youtube.com##ytd-comments
+youtube.com##ytd-comment-thread-renderer
+youtube.com##ytd-comment-replies-renderer
+youtube.com##ytd-live-chat-frame
+youtube.com##ytd-live-chat-renderer
+youtube.com##ytd-poll-renderer
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-paid-content-overlay
+
+youtube.com##*{ 
+  animation: none !important; 
+  transition: none !important;
+}
+
+youtube.com##link[rel="prefetch"]
+youtube.com##link[rel="preload"]
+
+youtube.com##ytd-app *:style(animation: none !important; transition: none !important;)
 
 youtube.com##container > .yt-playability-error-supported-rendereres.style-scope
 youtube.com##error-screen > .yt-playability-error-supported-renderers.stlye-scope
@@ -25,7 +45,6 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
 www.youtube.com##.opened
 
-youtube.com###comments
 youtube.com##.ytd-comments.style-scope
 youtube.com##ytm-comments-entry-point-header-renderer
 youtube.com###comments-button
