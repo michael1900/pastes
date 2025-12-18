@@ -1,4 +1,4 @@
-! Version: 2.1.0
+! Version: 2.1.1
 ! Title: Comment Zero
 
 *##+js(nowebrtc)
@@ -32,6 +32,7 @@ youtube.com##error-screen
 youtube.com##.ytp-cultural-moment-player-content.ytp-player-content
 youtube.com##.ytp-cued-thumbnail-overlay-image
 youtube.com##.ytp-cued-thumbnail-overlay
+
 youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
